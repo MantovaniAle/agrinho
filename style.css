@@ -44,3 +44,9 @@ p {
     border-radius: 15px;
     margin: 15px;
 }
+
+#paragrafo-foto{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
