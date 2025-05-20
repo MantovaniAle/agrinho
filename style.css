@@ -22,3 +22,8 @@ h2 {
   font-weight: <weight>;
   font-style: normal;
 }
+
+.satelite {
+    height: 500px;
+    border-radius: 15px;
+}
