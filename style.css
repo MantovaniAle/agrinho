@@ -35,9 +35,8 @@ h2 {
 p {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-size: large;
+  font-size: 2rem;
   font-style: normal;
-  font-weight: 600;
 }
 
 .satelite {
