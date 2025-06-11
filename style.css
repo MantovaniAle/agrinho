@@ -29,14 +29,12 @@ body {
 }
 
 h1 {
-
     font-family: "Bebas Neue", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
 
 h2 {
-
     font-family: "Playwrite DK Loopet", cursive;
     font-optical-sizing: auto;
     font-weight: 400px;
@@ -44,7 +42,6 @@ h2 {
 }
 
 p {
-
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-size: 2rem;
