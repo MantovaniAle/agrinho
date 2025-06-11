@@ -76,6 +76,6 @@ p {
 
 #contrastButton {
     position: absolute;
-    align-items: end;
-    justify-content: baseline;
+    align-self: center;
+    justify-self: end;
 }
