@@ -75,10 +75,10 @@ p {
     position: absolute;
     align-self: center;
     justify-self: end;
-    border: none;
+    border:none;
     background: none;
 }
 
 #contrastimage {
-    decoration
+    height: 10px;
 }
