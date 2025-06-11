@@ -3,11 +3,11 @@
     contrastButton.addEventListener('click', () => {
         const body = document.body;
 
-        if (body.classList.contains('high-contrast-mode-dark')) {
-            body.classList.remove('high-contrast-mode-dark');
-            body.classList.add('high-contrast-mode');
+        if (body.classList.contains('high-contrast-mode-1')) {
+            body.classList.remove('high-contrast-mode-1');
+            body.classList.add('high-contrast-mode-0');
         } else {
-            body.classList.remove('high-contrast-mode');
-            body.classList.add('high-contrast-mode-dark');
+            body.classList.remove('high-contrast-mode-0');
+            body.classList.add('high-contrast-mode-1');
         }
     });
