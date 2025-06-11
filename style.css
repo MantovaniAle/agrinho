@@ -17,6 +17,16 @@ body{
     margin: 10px;
 }
 
+    .high-contrast-mode {
+        background-color: white;
+        color: black;
+    }
+
+    .high-contrast-mode-dark {
+        background-color: black;
+        color: white;
+    }
+
 h1 {
     color: #0D1321;
     font-family: "Bebas Neue", sans-serif;
