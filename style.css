@@ -8,7 +8,6 @@
 }
 
 body{
-    background-color: #748CAB;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     display: flex;
@@ -18,24 +17,22 @@ body{
 }
 
     .high-contrast-mode {
-        background-color: white;
-        color: black;
+        background-color: black;
+        color: yellow;
     }
 
     .high-contrast-mode-dark {
-        background-color: black;
+        background-color: #748CAB;
         color: white;
     }
 
 h1 {
-    color: #0D1321;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
 
 h2 {
-    color: #0D1321;
   font-family: "Playwrite DK Loopet", cursive;
   font-optical-sizing: auto;
   font-weight: 400px;
@@ -47,7 +44,6 @@ p {
   font-optical-sizing: auto;
   font-size: 2rem;
   font-style: normal;
-  color: azure;
 }
 
 .satelite {
