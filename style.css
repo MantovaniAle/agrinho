@@ -73,3 +73,9 @@ p {
     border-radius: 15px;
     margin: 15px;
 }
+
+#contrastButton {
+    position: absolute;
+    align-items: end;
+    justify-content: baseline;
+}
