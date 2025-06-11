@@ -4,8 +4,6 @@
 * {
     margin: 0;
     padding: 0;
-    color: white;
-
 }
 
 body {
@@ -16,6 +14,7 @@ body {
     flex-direction: column;
     align-items: center;
     margin: 10px;
+    color: white;
 }
 
 .high-contrast-mode-0 {
