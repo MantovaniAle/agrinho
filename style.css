@@ -76,9 +76,6 @@ p {
     align-self: center;
     justify-self: end;
     border:none;
-    background: none;
+    background-color: white;
 }
 
-#contrastImage {
-    width: 30px;
-}
