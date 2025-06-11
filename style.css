@@ -8,6 +8,7 @@
 }
 
 body{
+    background-color: #748CAB;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     display: flex;
@@ -27,23 +28,26 @@ body{
     }
 
 h1 {
+    color: white;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
 
 h2 {
-  font-family: "Playwrite DK Loopet", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400px;
-  font-style: normal;
+    color: white;
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
 }
 
 p {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-size: 2rem;
-  font-style: normal;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 2rem;
+    font-style: normal;
 }
 
 .satelite {
