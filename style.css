@@ -73,9 +73,10 @@ p {
 
 #contrastButton {
     position: absolute;
-    align-self: center;
-    justify-self: end;
+    align-self: flex-end;
     border:none;
+    width: 30px;
+    color: blue;
     background-color: white;
 }
 
