@@ -75,7 +75,8 @@ p {
     position: absolute;
     align-self: flex-end;
     border:none;
-    width: 30px;
+    width: 50px;
+    height: 30px;
     color: blue;
     background-color: white;
 }
