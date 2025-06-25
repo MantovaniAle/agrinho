@@ -74,7 +74,7 @@ p {
 #contrastButton {
     position: absolute;
     align-self: flex-end;
-    border:none;
+    border-radius: 15px;
     width: 100px;
     height: 30px;
     color: purple;
