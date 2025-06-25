@@ -75,6 +75,7 @@ p {
     position: absolute;
     align-self: flex-end;
     border-radius: 15px;
+    border-color: purple;
     width: 100px;
     height: 30px;
     color: purple;
